@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://digital-home.netlify.app/"
 languageCode: en-us
 title: Sabir Ansari
 theme: PaperMod
@@ -14,7 +14,7 @@ params:
       url: "https://twitter.com/"
     - name: github
       url: "https://github.com/"
-      
+
   cover:
     linkFullImages: true
   ShowBreadCrumbs: true
